@@ -18,8 +18,8 @@ int main(void)
 			tails++;
 	}
 
-	printf("µ¿ÀüÀÇ ¾Õ¸é: %d\n", heads);
-	printf("µ¿ÀüÀÇ µŞ¸é: %d\n", tails);
+	printf("ë™ì „ì˜ ì•ë©´: %d\n", heads);
+	printf("ë™ì „ì˜ ë’·ë©´: %d\n", tails);
 	
 	return 0;
 }
